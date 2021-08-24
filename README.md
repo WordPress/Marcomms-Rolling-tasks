@@ -1,7 +1,7 @@
 # Marcomms-Rolling
 This is a place to produce, store and collborate on all WP Marcomms tasks that are needed on an ongoing rolling basis. 
 Including:
-- Agenda (for weekly meetings)
+- [Agendas](https://github.com/wpmarketingteam/Marcomms-Rolling-tasks/issues/6) (for weekly meetings)
 - Notes and actions
 - WPDiversity events promotions (for Community Team)
 - Month in WordPress newsletter (for Community Team)
