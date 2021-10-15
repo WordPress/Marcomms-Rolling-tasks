@@ -7,6 +7,7 @@ Including:
 - WPDiversity events promotions (for Community Team)
 - Month in WordPress newsletter (for Community Team)
 - Meetup newsletter (with Community Team)
+- Planned posts on the Marketing P2 (other than agendas and notes) 
 - Other Make Teams requests
 - Update posts (pending access issues being resolved)
 - Quarterly reporting/ annual review posts (for Josepha/ Chloe - requested every three months)
