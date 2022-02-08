@@ -1,5 +1,9 @@
 # Marcomms-Rolling
 
+UPDATE
+This repo has been brought under the WordPress organization at the end of Jan 2022. It will be merged with the new Marketing-Team repo. Due to a number of bugs occuring during migration and from the new board system, some of the cards are being moved manually. Thank you for your understanding.
+**
+Below is the previous information that related to this repo. It will be updated as the migration finishes** 
 This is a place to produce, store and collborate on all WP Marcomms tasks that are needed on an ongoing rolling basis. 
 Including:
 - [Rolling tasks board](https://github.com/wpmarketingteam/Marcomms-Rolling-tasks/projects/2)
