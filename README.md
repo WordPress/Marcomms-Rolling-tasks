@@ -1,7 +1,13 @@
 # Marcomms-Rolling
 
 UPDATE
-This repo has been brought under the WordPress organization at the end of Jan 2022. It will be merged with the new Marketing-Team repo. Due to a number of bugs occuring during migration and from the new board system, some of the cards are being moved manually. Thank you for your understanding.
+This repo has been brought under the WordPress organization at the end of Jan 2022. It is being merged with the [new Marketing-Tasks board in the Marketing-Team repo] https://github.com/orgs/WordPress/projects/21. 
+
+If you are creating new cards, please do this directly on the new Marketing-Team board and not on the repos marked for migration, such as this one.
+
+Due to a number of bugs occuring during migration and from the new board system, some of the cards are being moved manually. If your card is not displaying on the new board, please advise, and share the original link for the card. It is anticipated to archive this repository by the end of March 2022 - a question is currently with GitHub supports on whether links to work done under this repo for record will continue to work once it is archived. Thank you for your assistance with this.
+
+
 **
 Below is the previous information that related to this repo. It will be updated as the migration finishes** 
 This is a place to produce, store and collborate on all WP Marcomms tasks that are needed on an ongoing rolling basis. 
