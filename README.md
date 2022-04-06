@@ -1,7 +1,7 @@
 # Marcomms-Rolling
 
 UPDATE
-This repo has been brought under the WordPress organization at the end of Jan 2022. It is being merged with the [new Marketing-Tasks board in the Marketing-Team repo] https://github.com/orgs/WordPress/projects/21. 
+This repo has been brought under the WordPress organization at the end of Jan 2022. It has been merged with the [new Marketing-Tasks board in the Marketing-Team repo] https://github.com/orgs/WordPress/projects/21. 
 
 If you are creating new cards, please do this directly on the new Marketing-Team board and not on the repos marked for migration, such as this one.
 
